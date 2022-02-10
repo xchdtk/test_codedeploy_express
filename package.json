@@ -1,0 +1,25 @@
+{
+  "name": "test_codedeploy_express",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xchdtk/test_codedeploy_express.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xchdtk/test_codedeploy_express/issues"
+  },
+  "homepage": "https://github.com/xchdtk/test_codedeploy_express#readme",
+  "dependencies": {
+    "express": "^4.17.2"
+  }
+}
